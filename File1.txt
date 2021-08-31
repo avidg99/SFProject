@@ -1,7 +1,9 @@
 welcome to git!!!
 
-Hello world..
+Hello world...
 
 change wi2
 
 change diff
+ 
+change to fix the bug 1
