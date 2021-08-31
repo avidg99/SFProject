@@ -2,8 +2,8 @@ welcome to git!!!
 
 Hello world...
 
-change wi2
+change- wi2
 
-change diff
+change- diff
  
-change to fix the bug 1
+change- to fix the bug 1
